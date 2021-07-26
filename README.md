@@ -1,11 +1,11 @@
 ### Hi there and welcome 👋
 
-#### My name is Lucas Albuquerque Faria, a guy from Belo Horizonte and passionate about technology. Postgraduate in Data Science and Big Data, working with mainframe platform for over a decade and a Python developer an enthusiast who also has fun developing Django applications. <Image alt="GIS" src=Icons/geek.png>
+#### My name is Lucas Albuquerque Faria, a guy from Belo Horizonte and passionate about technology. Postgraduate in Data Science and Big Data, working with mainframe platform for over a decade and a Python developer an enthusiast who also has fun developing Django applications.
 
 🌱 I’m currently improve my skills in Python and Data Science tools:
    * 🐍 Python 
     * *Pandas, Matplotlib, Seaborn, Numpy, Geopandas, Scikit-Learn*
-    * * Django, Django REST Framework & some (but not much) Flask*
+    * *Django, Django REST Framework & some (but not much) Flask*
 
  
 #### Easy going person who would love to talk to you about things around the world. 
