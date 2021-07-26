@@ -1,6 +1,6 @@
 ### Hi there and welcome 👋
 
-#### My name is Lucas Albuquerque Faria, a guy from Belo Horizonte and passionate about technology. Postgraduate in Data Science, working with mainframe platform for over a decade and a Python developer enthusiast who also has fun developing Django applications. Easy going person who would love to talk to you about things around the world!
+#### My name is Lucas Faria, a guy from Belo Horizonte and passionate about technology. Postgraduate in Data Science, working with mainframe platform for over a decade and a Python developer enthusiast who also has fun developing Django applications. Easy going person who would love to talk to you about things around the world!
 
 🌱 I’m currently improve my skills in Python and Data Science tools:
    * 🐍 Python 
@@ -8,7 +8,7 @@
 
  
 #### 📫 How to reach me:
-[<img src="https://img.shields.io/badge/LucasFaria-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasalbfar/)
+[<img src="https://img.shields.io/badge/Lucas Faria-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasalbfar/)
 [<img src="https://img.shields.io/badge/lucasalbfar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:lucasalbfarw@gmail.com)
   
 
