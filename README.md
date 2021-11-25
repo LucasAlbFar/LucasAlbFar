@@ -15,8 +15,8 @@
 #### ⚡ Fun facts:
   - Movie & Series passionate (any interesting movie outside Hollywood? Please, fill free to suggest! 😄)
   - Dog person
-  - Photographer amateur [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lucasalbfar/)
-  
+  - Photographer amateur 
+    
 <!--
 **LucasAlbFar/LucasAlbFar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
