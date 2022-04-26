@@ -1,6 +1,6 @@
 ### Hi there and welcome 👋
 
-#### My name is Lucas Faria, a guy from Belo Horizonte and passionate about technology. Postgraduate in Data Science, working with mainframe platform for over a decade and a Python developer enthusiast who also has fun developing Django applications. Easy going person who would love to talk to you about things around the world!
+#### My name is Lucas Faria, a guy from Belo Horizonte and passionate about technology. Postgraduate in Data Science, and working as a Python developer  who also has fun developing Django applications. Easy going person who would love to talk to you about things around the world!
 
 🌱 I’m currently improve my skills in Python and Data Science tools:
    * 🐍 Python 
